@@ -12,6 +12,9 @@
 | [Voidlinux Gnome Shell Adjustment](https://samwhelp.github.io/voidlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-gnome-shell-adjustment) |
 | [Voidlinux Gnome Shell Note](https://samwhelp.github.io/note-about-voidlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-gnome-shell) |
 | [Voidlinux Adjustment](https://samwhelp.github.io/voidlinux-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-adjustment) |
+| [Voidlinux Live Build Config / Respin / Gnome Shell / Enhance](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-enhance) |
+| [Voidlinux Live Build Config / Respin / Gnome Shell / Layout / Maccity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-maccity) |
+| [Voidlinux Live Build Config / Respin / Gnome Shell / Layout / Wincity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-wincity) |
 
 
 
