@@ -38,6 +38,9 @@
 | --------------------------- |
 | [Voidlinux Live Build Config / Collection](https://github.com/samwhelp/voidlinux-live-build-config-collection) |
 | [Voidlinux Live Build Config / Respin / Gnome Shell](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell) |
+| [Voidlinux Live Build Config / Respin / Gnome Shell / Enhance](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-enhance) |
+| [Voidlinux Live Build Config / Respin / Gnome Shell / Layout / Maccity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-maccity) |
+| [Voidlinux Live Build Config / Respin / Gnome Shell / Layout / Wincity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-wincity) |
 
 
 
