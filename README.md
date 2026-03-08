@@ -22,6 +22,7 @@
 ## Subject
 
 * [Script](#script)
+* [Resource](#resource)
 * [ISO](#iso)
 * [Link](#link)
 
@@ -34,6 +35,23 @@
 | ------ |
 | [Voidlinux Gnome Shell Config](https://github.com/samwhelp/voidlinux-gnome-shell-adjustment/tree/main/prototype/main/gnome-shell-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/voidlinux-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## Resource
+
+| Gnome Shell Resource |
+| -------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+| [make-gnome-shell-style](https://samwhelp.github.io/make-gnome-shell-style/) | [GitHub](https://github.com/samwhelp/make-gnome-shell-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [make-gnome-shell-layout-wincity](https://samwhelp.github.io/make-gnome-shell-layout-wincity/) | [GitHub](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://samwhelp.github.io/make-gnome-shell-layout-maccity/) | [GitHub](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
 
 
 
