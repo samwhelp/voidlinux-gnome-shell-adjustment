@@ -48,7 +48,7 @@
 
 | Gnome Shell Style  |
 | ------------------ |
-| [make-gnome-shell-style](https://samwhelp.github.io/make-gnome-shell-style/) | [GitHub](https://github.com/samwhelp/make-gnome-shell-style) |
+[make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
 | [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
 
