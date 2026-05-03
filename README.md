@@ -14,6 +14,7 @@
 ## Subject
 
 * [Script](#script)
+* [Resource](#resource)
 * [ISO](#iso)
 * [Link](#link)
 
